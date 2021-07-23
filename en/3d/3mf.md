@@ -16,7 +16,7 @@
   "lastmod" : "2019-12-09"
 }
 
-# What is a 3MF file? #
+## What is a 3MF file?
 
 3MF, 3D Manufacturing Format, is used by applications to render 3D object models to a variety of other applications, platforms, services and printers. It was built to avoid the limitations and issues in other 3D file formats, like [STL](/cad/stl/), for working with the latest versions of 3D printers. 3MF is relatively a new file format that has been developed and published by the 3MF consortium. It is rich enough to fully describe a model, retaining internal information, colour, and other characteristics that makes it extensible for supporting new innovations in 3D printing. The format is extensible, able to be broadly adopted and free of issues besetting other widely used file formats.
 
